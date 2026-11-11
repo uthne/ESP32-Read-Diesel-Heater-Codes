@@ -10,7 +10,7 @@ Remember that most 433MHz receivers are 5 volt and you *** MUST USE *** a voltag
 
  
 
-SE ALSO ILLUSTRATION schema.svg
+SE ALSO ILLUSTRATION Schema.svg
 
 Use the Serial Monitor while the ESP32 is connected via USB. Follow the intructions and press the called out buttons on your remote / Key Fob, and copy the list of received
 codes from the Serial Monitor.
